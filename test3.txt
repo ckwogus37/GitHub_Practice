@@ -1,1 +1,1 @@
-minus function has been developed!
+calculation function has been developed!
